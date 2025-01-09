@@ -21,7 +21,8 @@ pip install requests beautifulsoup4 pandas
 
 Installation
 Clonez ce repository sur votre machine locale en exécutant la commande suivante :
-git clone https://github.com/USERNAME/gestion-de-projet-csv.git
+git clone https://github.com/MurielleKemeka1203/Projet-Scrapings.git
+
 Accédez au répertoire du projet :
 cd Projet-Scrapings-csv
 Utilisation
